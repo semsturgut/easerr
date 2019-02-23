@@ -1,0 +1,3 @@
+/home/parallels/easerr/pcl_ws/tutorials/filtering/passthrough/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/easerr/pcl_ws/tutorials/filtering/passthrough/build/CMakeFiles/edit_cache.dir
+/home/parallels/easerr/pcl_ws/tutorials/filtering/passthrough/build/CMakeFiles/passthrough.dir
